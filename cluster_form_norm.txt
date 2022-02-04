@@ -1,0 +1,42 @@
+Number of clusters = 8
+
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_420', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_326', 'Indian Penal Code, 1860_471']
+['Constitution_14', 'Constitution_226', 'Constitution_136', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Constitution_142']
+['Indian Penal Code, 1860_304', 'Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+['Code of Civil Procedure, 1908_100']
+['Land Acquisition Act, 1894_4']
+['Constitution_309']
+['Constitution_16']
+['Constitution_19']
+
+
+
+Number of clusters = 9
+
+
+['Indian Penal Code, 1860_304', 'Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+['Constitution_14', 'Constitution_226', 'Constitution_136', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Constitution_142']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_326', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_420', 'Indian Penal Code, 1860_506']
+['Land Acquisition Act, 1894_4']
+['Constitution_309']
+['Constitution_16']
+['Constitution_19']
+['Code of Civil Procedure, 1908_100']
+
+
+
+Number of clusters = 10
+
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_326', 'Indian Penal Code, 1860_471']
+['Constitution_14', 'Constitution_226', 'Constitution_136', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Constitution_142']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+['Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_420', 'Indian Penal Code, 1860_506']
+['Land Acquisition Act, 1894_4']
+['Constitution_309']
+['Constitution_16']
+['Constitution_19']
+['Code of Civil Procedure, 1908_100']
+['Indian Penal Code, 1860_304']

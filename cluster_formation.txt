@@ -1,0 +1,272 @@
+Number of clusters = 6
+
+
+Threshold frequency = 25
+
+['Land Acquisition Act, 1894_4', 'Code of Civil Procedure, 1908_100']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Constitution_309']
+
+
+
+Threshold frequency = 30
+
+['Land Acquisition Act, 1894_4', 'Code of Civil Procedure, 1908_100']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Constitution_309']
+
+
+
+Threshold frequency = 40
+
+['Land Acquisition Act, 1894_4', 'Code of Civil Procedure, 1908_100']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Constitution_309']
+
+
+
+Threshold frequency = 50
+
+['Land Acquisition Act, 1894_4', 'Code of Civil Procedure, 1908_100']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Constitution_309']
+
+
+
+Number of clusters = 7
+
+
+Threshold frequency = 25
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+
+
+
+Threshold frequency = 30
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+
+
+
+Threshold frequency = 40
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+
+
+
+Threshold frequency = 50
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_307', 'Constitution_32', 'Indian Penal Code, 1860_148', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Constitution_16']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+
+
+
+Number of clusters = 8
+
+
+Threshold frequency = 25
+
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+
+
+
+Threshold frequency = 30
+
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+
+
+
+Threshold frequency = 40
+
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+
+
+
+Threshold frequency = 50
+
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_498', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+
+
+
+Number of clusters = 9
+
+
+Threshold frequency = 25
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+
+
+
+Threshold frequency = 30
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+
+
+
+Threshold frequency = 40
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+
+
+
+Threshold frequency = 50
+
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Constitution_14', 'Constitution_226', 'Constitution_136', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Indian Penal Code, 1860_420', 'Constitution_142']
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Code of Civil Procedure, 1908_100']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+
+
+
+Number of clusters = 10
+
+
+Threshold frequency = 25
+
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+['Constitution_14', 'Constitution_226', 'Constitution_136', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Constitution_142']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_420']
+['Code of Civil Procedure, 1908_100']
+
+
+
+Threshold frequency = 30
+
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+['Constitution_14', 'Constitution_226', 'Constitution_136', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Constitution_142']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_420']
+['Code of Civil Procedure, 1908_100']
+
+
+
+Threshold frequency = 40
+
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+['Constitution_14', 'Constitution_226', 'Constitution_136', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Constitution_142']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_420']
+['Code of Civil Procedure, 1908_100']
+
+
+
+Threshold frequency = 50
+
+['Indian Penal Code, 1860_304', 'Constitution_19']
+['Indian Penal Code, 1860_307', 'Indian Penal Code, 1860_148', 'Indian Penal Code, 1860_201', 'Indian Penal Code, 1860_468', 'Indian Penal Code, 1860_471']
+['Indian Penal Code, 1860_147', 'Indian Penal Code, 1860_324', 'Indian Penal Code, 1860_376', 'Indian Penal Code, 1860_506', 'Indian Penal Code, 1860_326']
+['Indian Penal Code, 1860_323', 'Indian Penal Code, 1860_498']
+['Constitution_14', 'Constitution_226', 'Constitution_136', 'Constitution_32', 'Constitution_21', 'Constitution_227', 'Constitution_142']
+['Constitution_309']
+['Land Acquisition Act, 1894_4']
+['Constitution_16']
+['Indian Penal Code, 1860_302', 'Indian Penal Code, 1860_34', 'Indian Penal Code, 1860_149', 'Indian Penal Code, 1860_120', 'Indian Penal Code, 1860_420']
+['Code of Civil Procedure, 1908_100']
